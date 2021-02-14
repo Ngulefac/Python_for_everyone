@@ -16,5 +16,8 @@ print(nestlist[2][3][0]) #prints out the index 0 of index 3 of the index 2 posit
 # get the index 2 element,inside index 2 get the index 3 element, inside index 3 get the first element ,index 0
 # print it out
 
+t = ("23", "abc", "4.56", "2,3", "def")
+print(t[2])
+print(t[-5])
 
 
