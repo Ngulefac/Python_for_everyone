@@ -8,6 +8,8 @@ print(list[:])  #prints everything from the first index (index 0 till the last e
 #simplified one
 
 # 2D arrays
+nestlist = [1,2,[10,20,30,[7,9,11,[100,200,300]]],[1,7,8]]
+print(nestlist[2][3]) #prints out the index 3 of the index 2 position in nestlist
 
 
 
