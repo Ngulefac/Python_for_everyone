@@ -20,4 +20,5 @@ t = ("23", "abc", "4.56", "2,3", "def" , "wow","this", "is", "great.")
 print(t[2])
 print(t[-5]) # Prints the last 5th element from the end(or extreme)
 
+print(t[-4:]) # Prints the last 4th element till the last from the end(or extreme)
 
