@@ -15,3 +15,10 @@ num7 = num4/3
 #To print out this values
 print("Num1 = ",num1,"\nNum2 = ",num2,"\nNum3 = ",num3,"\nSum total = ",num4,"\nTheir products = ",num5)
 print("\nNum3 / Num1 = ",num6,"\nTotal Average = ",num7)
+
+#You can try this
+#What is th output of this 
+# print(4/2)
+
+# Ya you guessed it right
+
