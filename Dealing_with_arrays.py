@@ -16,8 +16,8 @@ print(nestlist[2][3][0]) #prints out the index 0 of index 3 of the index 2 posit
 # get the index 2 element,inside index 2 get the index 3 element, inside index 3 get the first element ,index 0
 # print it out
 
-t = ("23", "abc", "4.56", "2,3", "def")
+t = ("23", "abc", "4.56", "2,3", "def" , "wow","this", "is", "great.")
 print(t[2])
-print(t[-5])
+print(t[-5]) # Prints the last 5th element from the end(or extreme)
 
 
