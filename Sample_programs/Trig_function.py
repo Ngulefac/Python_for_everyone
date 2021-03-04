@@ -6,4 +6,8 @@ z = tangent_table = {z: tan(z*pi/180) for z in range(0, 90)}
 print("sin()=", x)
 print("cos()=", y)
 print("tan()=", z)
-
+print(pi)
+print("")
+print(len(x))
+print(len(y))
+print(len(z))
