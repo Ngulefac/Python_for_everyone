@@ -75,3 +75,13 @@ turtle.goto(-50, 180)
 turtle.pendown()
 turtle.write("U")
 
+turtle.penup()
+turtle.goto(-50, 200)
+turtle.pendown()
+turtle.write("U")
+
+
+
+
+
+
