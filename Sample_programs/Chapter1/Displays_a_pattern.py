@@ -143,6 +143,8 @@ turtle.goto(70, 200)
 turtle.pendown()
 turtle.write("NN")
 
+turtle.done()
+
 
 
 
