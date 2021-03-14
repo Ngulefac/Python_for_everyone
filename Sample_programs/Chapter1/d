@@ -1,4 +1,4 @@
 git status
-git add $name
+git add .
 read -p "Commit message : " message
 git commit -m "$message" 
