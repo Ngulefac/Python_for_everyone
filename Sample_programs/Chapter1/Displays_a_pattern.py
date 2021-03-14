@@ -27,3 +27,8 @@ turtle.goto(-200, 120)
 turtle.pendown()
 turtle.write("FF")
 
+turtle.penup()
+turtle.goto(-120, 200)
+turtle.pendown()
+turtle.write("U")
+
