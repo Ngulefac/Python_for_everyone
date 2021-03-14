@@ -5,7 +5,7 @@ turtle.penup()
 turtle.goto(-150, 10)
 turtle.pendown()
 turtle.forward(310) 
-
+ 
 
 turtle.penup()
 turtle.goto(0, 180)
