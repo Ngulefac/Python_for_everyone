@@ -5,3 +5,6 @@
 # mins -> hours: 45mins/60mins = 0.75hr
 # sec -> hours: 30secs/3600mins = 0.0083hr
 # hours= 0.833hrs
+
+print(8.6992 // 0.00833)
+print("miles per hour")
