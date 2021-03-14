@@ -86,6 +86,12 @@ turtle.pendown()
 turtle.write("NN")
 
 
+turtle.penup()
+turtle.goto(0, 180)
+turtle.pendown()
+turtle.write("NNN")
+
+
 
 
 
