@@ -16,3 +16,9 @@ turtle.forward(200)
 turtle.right(90)
 turtle.forward(200)
 
+turtle.penup()
+turtle.goto(-100, -2)
+turtle.pendown()
+turtle.right(90)
+turtle.forward(200)
+
