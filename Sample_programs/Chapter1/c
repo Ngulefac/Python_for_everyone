@@ -4,3 +4,4 @@ git status
 git add $name
 git commit -m "Created the file $name"
 git status
+chmod -R 777 $name
