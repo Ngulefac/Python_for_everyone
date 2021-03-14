@@ -2,3 +2,6 @@
 # and displays the coordinates of the two points
 
 import turtle
+turtle.penup()
+turtle.goto(-200, 100)
+turtle.pendown()
