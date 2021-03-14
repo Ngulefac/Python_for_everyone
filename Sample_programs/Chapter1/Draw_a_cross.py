@@ -12,3 +12,5 @@ turtle.goto(0, 180)
 turtle.pendown()
 turtle.right(90)
 turtle.forward(310)
+
+turtle.done()
