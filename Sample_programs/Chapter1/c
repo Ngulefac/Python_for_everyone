@@ -1,0 +1,6 @@
+read -p "File name  : " name
+touch $name
+git status
+git add $name
+git commit -m "Created the file $name"
+git status
