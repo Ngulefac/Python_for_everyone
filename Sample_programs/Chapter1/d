@@ -3,5 +3,5 @@ git add .
 #read -p "Commit message : " message
 git commit -m "Updated the file" 
 git status
-sleep 1
+sleep 3
 ./d
