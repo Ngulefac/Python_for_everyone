@@ -123,7 +123,10 @@ turtle.goto(60, 120)
 turtle.pendown()
 turtle.write("NNN")
 
-
+turtle.penup()
+turtle.goto(70, 140)
+turtle.pendown()
+turtle.write("NN")
 
 
 
