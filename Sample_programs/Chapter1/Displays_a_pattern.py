@@ -122,6 +122,3 @@ turtle.write("N")
 
 
 
-
-
-
