@@ -5,3 +5,13 @@ import turtle
 turtle.penup()
 turtle.goto(-200, 100)
 turtle.pendown()
+turtle.write("( -39 , 48 )")
+turtle.color("red")
+turtle.right(45)
+turtle.forward(300)
+
+turtle.color("black")
+turtle.write("( -39 , 48 )")
+
+
+turtle.done()
