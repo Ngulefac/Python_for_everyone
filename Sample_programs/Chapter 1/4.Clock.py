@@ -54,3 +54,7 @@ turtle.penup()
 turtle.goto(-7, 25)
 turtle.goto(-7, 25)
 
+turtle.pendown()
+turtle.right(90)
+turtle.forward(150)
+turtle.done()
