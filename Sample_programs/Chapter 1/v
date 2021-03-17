@@ -1,4 +1,4 @@
-read -p "Commit message : " msg
+#read -p "Commit message : " msg
 git add .
-git commit -m "$msg"
+git commit -m "Updated"
 echo " "
