@@ -11,3 +11,5 @@ turtle.goto(-10, 180)
 turtle.pendown()
 turtle.write("12")
 
+turtle.penup()
+turtle.goto(-10, -200)
