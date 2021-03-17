@@ -31,3 +31,5 @@ turtle.write("3")
 
 turtle.penup()
 turtle.goto(-40, -180)
+turtle.pendown()
+turtle.write("9:15:00 AM")
