@@ -29,3 +29,5 @@ turtle.goto(160, 20)
 turtle.pendown()
 turtle.write("3")
 
+turtle.penup()
+turtle.goto(-40, -180)
