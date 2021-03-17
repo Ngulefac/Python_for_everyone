@@ -26,5 +26,3 @@ turtle.write("9")
 turtle.penup()
 turtle.goto(180, 20)
 turtle.goto(160, 20)
-
- 
