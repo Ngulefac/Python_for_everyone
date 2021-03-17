@@ -48,3 +48,6 @@ turtle.right(180)
 turtle.forward(75)
 turtle.penup()
 turtle.goto(-80, 30)
+turtle.pendown()
+turtle.circle(5)
+
