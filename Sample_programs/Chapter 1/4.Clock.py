@@ -37,19 +37,23 @@ turtle.write("9:15:00 AM")
 turtle.penup()
 turtle.goto(0, 25)
 turtle.goto(0, 25)
+
 turtle.pendown()
 turtle.forward(150)
 
 turtle.penup()
 turtle.goto(0, 25)
 turtle.goto(0, 25)
+
 turtle.pendown()
 turtle.right(180)
 turtle.forward(75)
+
 turtle.penup()
 turtle.goto(-80, 30)
 turtle.pendown()
 turtle.circle(5)
+
 turtle.penup()
 turtle.goto(-7, 25)
 turtle.goto(-7, 25)
