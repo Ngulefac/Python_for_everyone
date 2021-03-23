@@ -133,3 +133,8 @@ turtle.penup()
 turtle.goto(70, 180)
 turtle.pendown()
 turtle.write("NN")
+
+turtle.penup()
+turtle.goto(70, 200)
+turtle.pendown()
+turtle.write("NN")
