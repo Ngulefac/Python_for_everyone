@@ -108,3 +108,8 @@ turtle.goto(30, 160)
 turtle.pendown()
 turtle.write("N")
 
+
+turtle.penup()
+turtle.goto(40, 140)
+turtle.pendown()
+turtle.write("NN")
