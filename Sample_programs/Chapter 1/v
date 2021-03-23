@@ -1,0 +1,5 @@
+#read -p "Commit message : " msg
+git add .
+#git commit -m "$msg"
+git commit -m "Updated"
+echo -e "\033[31m Completed \e[0m"
