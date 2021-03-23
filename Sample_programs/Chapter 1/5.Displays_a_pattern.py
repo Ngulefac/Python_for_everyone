@@ -36,3 +36,9 @@ turtle.penup()
 turtle.goto(-120, 160)
 turtle.pendown()
 turtle.write("U")
+
+
+turtle.penup()
+turtle.goto(-110, 140)
+turtle.pendown()
+turtle.write("U")
